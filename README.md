@@ -1,4 +1,4 @@
-Axio-Builder JSN270 Arduino Library
+Axio-Builder JSN270 Arduino Library [![Linux build status](https://travis-ci.org/sp-axio/JSN270_for_Axio.svg?branch=master)](https://travis-ci.org/sp-axio/JSN270_for_Axio)
 ========================================
 
 [*Clone from jmpsystems/JSN270-arduino-shield*](https://github.com/jmpsystems/JSN270-arduino-shield.git)
